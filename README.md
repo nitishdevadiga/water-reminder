@@ -30,3 +30,5 @@ Reminders are scheduled both from the open page and from the service worker, at 
 npm run build
 npm run preview
 ```
+
+🌐 **Live Demo:** [water-reminder-pi.vercel.app](https://water-reminder-pi.vercel.app/)
